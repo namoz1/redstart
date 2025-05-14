@@ -3,6 +3,10 @@ message: "If you use this project, please cite it as below."
 authors:
 - family-names: "Boisgérault"
   given-names: "Sébastien"
+family-names: "ZOMAN"
+  given-names: "WILLIAM"
+family-names: "ZAHIRA"
+  given-names: "Saslami"
   orcid: "https://orcid.org/0000-0003-4685-8099"
 title: "Redstart"
 version: 0.0.1
